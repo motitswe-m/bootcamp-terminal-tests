@@ -1,5 +1,5 @@
 import assert from "assert";
-import countAllFromTown from "../countAllFromTown.js";
+import countAllFromTown from "../first-terminal-tests/countAllFromTown.js";
 
 describe("testing my countAllFromTown", function () {
   it("it should take a string parameter with registration numbers separated with commas and the registration number start string and return all the list for that town", function () {

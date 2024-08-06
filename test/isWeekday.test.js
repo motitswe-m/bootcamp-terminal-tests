@@ -1,5 +1,5 @@
 import assert from "assert";
-import isWeekday from "../isWeekday.js";
+import isWeekday from "../first-terminal-tests/isWeekday.js";
 
 describe("testing my isWeekday function", function () {
   it("it should use string parameter to return true for a week day", function () {

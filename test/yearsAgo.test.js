@@ -1,5 +1,5 @@
 import assert from "assert";
-import yearsAgo from "../first_terminal_test/yearsAgo.js";
+import yearsAgo from "../first-terminal-tests/yearsAgo.js";
 
 describe("testing my function called is yearsAgo", function () {
   it("it should return how many years ago the year is from the current year", function () {

@@ -39,7 +39,7 @@ var salesData2 = [
 ];
 
 import assert from "assert";
-import mostProfitableDepartment from "../mostProfitableDepartment.js";
+import mostProfitableDepartment from "../first-terminal-tests/mostProfitableDepartment.js";
 
 describe("testing my function mostProfitableDepartment", function () {
   it("it should take the objects and its attribute, the if condition and return the most profitable department", function () {

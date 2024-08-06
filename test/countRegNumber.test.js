@@ -1,5 +1,5 @@
 import assert from "assert";
-import countRegNumber from "../countRegNumber.js";
+import countRegNumber from "../first-terminal-tests/countRegNumber.js";
 
 describe("Testing the countRegNumber function", function () {
   it("should split the string at the coma and return the number of registration numbers in the string", function () {

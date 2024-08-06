@@ -1,5 +1,5 @@
 import assert from "assert";
-import isFromBellville from "../isFromBellville.js";
+import isFromBellville from "../first-terminal-tests/isFromBellville.js";
 
 describe("it should test if isFromBellville function", function () {
   it("it should return true if the registration number start with CY", function () {

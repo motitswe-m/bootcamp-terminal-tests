@@ -32,7 +32,7 @@ var results3 = [
   { name: "apples", qty: 37 },
 ];
 import assert from "assert";
-import findItemsOver20 from "../findItemsOver20.js";
+import findItemsOver20 from "../first-terminal-tests/findItemsOver20.js";
 
 describe("testing is findltemsOver20 function", function () {
   it("it should use the list objects and it attributes and return all the products that have a quantity higher than 20", function () {

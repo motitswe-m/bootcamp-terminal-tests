@@ -32,7 +32,7 @@ var results3 = [
   { name: "apples", qty: 37 },
 ];
 import assert from "assert";
-import findItemsOver from "../findItemsOver.js";
+import findItemsOver from "../first-terminal-tests/findItemsOver.js";
 
 describe("testing is findltemsOver function", function () {
   it("it should take a list of objects each with a name and qty attribute and return products that have quantity higher than the threshold", function () {
